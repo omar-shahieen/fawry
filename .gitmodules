@@ -1,0 +1,3 @@
+[submodule "fawry-git"]
+	path = fawry-git
+	url = https://github.com/omar-shahieen/fawry-git.git
