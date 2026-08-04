@@ -2,3 +2,6 @@
 	path = fawry-git
 	url = https://github.com/omar-shahieen/fawry-git.git
 
+[submodule "fawry-collector-photo-manager"]
+	path = fawry-collector-photo-manager
+	url = https://github.com/omar-shahieen/fawry-collector-photo-manager.git
