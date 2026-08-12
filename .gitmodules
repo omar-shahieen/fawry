@@ -5,3 +5,6 @@
 [submodule "fawry-collector-photo-manager"]
 	path = fawry-collector-photo-manager
 	url = https://github.com/omar-shahieen/fawry-collector-photo-manager.git
+[submodule "java-8"]
+	path = java-8
+	url = https://github.com/omar-shahieen/java-8.git
