@@ -8,3 +8,6 @@
 [submodule "java-8"]
 	path = java-8
 	url = https://github.com/omar-shahieen/java-8.git
+[submodule "fawry-unit-testing"]
+	path = fawry-unit-testing
+	url = https://github.com/omar-shahieen/fawry-unit-testing.git
