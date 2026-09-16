@@ -11,3 +11,6 @@
 [submodule "fawry-unit-testing"]
 	path = fawry-unit-testing
 	url = https://github.com/omar-shahieen/fawry-unit-testing.git
+[submodule "JEE"]
+	path = JEE
+	url = https://github.com/omar-shahieen/JEE.git
