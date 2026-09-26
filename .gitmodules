@@ -14,3 +14,6 @@
 [submodule "JEE"]
 	path = JEE
 	url = https://github.com/omar-shahieen/JEE.git
+[submodule "fawry-lms"]
+	path = fawry-lms
+	url = https://github.com/omar-shahieen/fawry-lms.git
